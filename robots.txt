@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-nuo7wa.bidsys.com.br/sitemap.xml
